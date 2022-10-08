@@ -47,3 +47,7 @@ h2 {
     font-family: Titulos;
     text-align: center;
 }
+
+.body div {
+    background-color: #e9c46a;
+}
