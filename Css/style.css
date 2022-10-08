@@ -7,3 +7,7 @@
     font-family: Titulos;
     src: url("LiberationSerif-Regular.ttf");
 }
+
+* {
+    margin: 0;
+}
