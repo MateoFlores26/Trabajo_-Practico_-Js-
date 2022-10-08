@@ -35,3 +35,10 @@ h1 {
     height: 135px;
     width: 93px;
 }
+
+.body {
+    font-family: Cuerpo;
+    display: grid;
+    grid-template-columns: auto 1200px auto;
+    font-size: 12pt;
+}
