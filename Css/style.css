@@ -30,3 +30,8 @@ h1 {
     font-family: Titulos;
     font-size: 20pt;
 }
+
+.head div img {
+    height: 135px;
+    width: 93px;
+}
