@@ -42,3 +42,8 @@ h1 {
     grid-template-columns: auto 1200px auto;
     font-size: 12pt;
 }
+
+h2 {
+    font-family: Titulos;
+    text-align: center;
+}
