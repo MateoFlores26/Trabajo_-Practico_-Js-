@@ -51,3 +51,11 @@ h2 {
 .body div {
     background-color: #e9c46a;
 }
+
+.body .Respuestas {
+    background-color: #2a9d8f;
+    padding: 10px;
+    border-left: 3px solid;
+    border-right: 3px solid;
+    border-bottom: 3px solid;
+}
