@@ -10,3 +10,7 @@ function sumar(valor) {
 
     /* Esta es la suma. */
     total = (parseInt(total) + parseInt(valor));
+
+    // Colocar el resultado de la suma en el control "span".
+    document.getElementById('spTotal').innerHTML = total;
+}
